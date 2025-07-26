@@ -1,0 +1,32 @@
+{
+  "api/overview": {
+    "totalSites": 57,
+    "environmentalImpact": { "co2": 6.42, "energy": 4.05 },
+    "socialImpact": { "beneficiaries": 9203 },
+    "installationImpact": { "capacity": 2.09 }
+  },
+  "api/anomalies": {
+    "alarms": { "count": 396, "sites": 54 },
+    "warnings": { "count": 28, "sites": 6 },
+    "alerts": { "count": 39, "sites": 10 },
+    "inactive": { "sites": 51 }
+  },
+  "api/partners": {
+    "strategy": 22,
+    "technical": 24
+  },
+  "api/segments": {
+    "hospitals": 10,
+    "educational": 9,
+    "residential": 24,
+    "microgrid": 6,
+    "others": 8
+  },
+  "api/last-updated": {
+    "timestamp": "26 July 2025 : 10:04 Hrs"
+  },
+  "api/user-settings": {
+    "theme": "dark",
+    "language": "en"
+  }
+}
